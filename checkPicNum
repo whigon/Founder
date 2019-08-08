@@ -1,0 +1,55 @@
+# -*- coding: utf-8 -*-
+
+'''
+Author: Yuexiang Li
+Description: 检查IM字段中的图片数量是否和TX中的数量相同 
+'''
+
+import os
+import re
+
+
+
+# 获取当前目录下所有TXT格式的文件
+def eachFile():
+    files = []
+    pathFiles = os.listdir('.')
+
+    for eachfile in pathFiles:
+        # 把TXT格式的文件加入到列表里
+        if eachfile[-4:] == '.txt':
+            files.append(os.path.join(os.getcwd(), eachfile))
+
+    return files
+
+
+def chechNum(files):
+    for file in files:
+        with open(file, 'r', encoding='UTF-8') as read_file:
+            while 1:
+                line = read_file.readline()
+
+                if not line:
+                    break
+
+                if line[:3] == 'IM:' and len(line) > 5:
+                    # 去掉前面的“IM:”和尾巴的“\n”
+                    line = line.strip()[3:]
+                    if line[0] != 'h':
+                        print('Incorrect Form: ' + line)
+                    urls = re.split(r';', line)
+                    num_IM = numIM(urls)
+                    print(num_IM)
+
+
+def numIM(urls):
+    num = 0
+
+    num = len(urls)
+
+    return num
+
+
+if __name__ == '__main__':
+    files = eachFile()
+    chechNum(files)
