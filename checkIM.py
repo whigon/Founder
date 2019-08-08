@@ -56,14 +56,9 @@ def checkIMValidation(files):
                     urls = re.split(r';', line)
 
                     '''
-                    # 这里的正则配的不够好
-                    # urls = re.split(r'(http)(s)?:', line)
-                    if 'https:' in line:
-                        urls = re.split(r'(https:)', line)
-                        urls.pop(0)
-                    if 'http:' in line:
-                        urls = re.split(r'(http:)', line)
-                        urls.pop(0)
+                    # 正则切分后要重新拼接
+                    # urls = re.split(r'(https?://）', line)
+                    print(urls)
                     '''
 
                     for url in urls:
