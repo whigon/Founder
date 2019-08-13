@@ -63,7 +63,6 @@ def chechNum(files):
 
                                 line = line.strip()
                                 text += line
-                            # print(text)
 
                             # 从正文从提取链接, 'src'前有空格才行，不然会匹配到oldsrc等
                             exp = re.compile('\ssrc="https?://[\d\w\:\/\.\?=&_\-]*"')
@@ -73,8 +72,8 @@ def chechNum(files):
                             num_TX = count_Num(url_TX)
 
                             if num_IM != num_TX:
-                                print('The picture number is not equal: ')
-                                print(MI + ': IM-' + str(num_IM) + ' TX-' + str(num_TX))
+                                print("The picture number is not equal: ")
+                                print(MI + ": IM-" + str(num_IM) + " TX-" + str(num_TX))
                                 print(url_TX)
 
                             # 到下一个字段退出
