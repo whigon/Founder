@@ -60,12 +60,6 @@ def checkIMValidation(files):
                     # line = line[3:-1]
                     urls = re.split(r';', line)
 
-                    '''
-                    # 正则切分后要重新拼接
-                    # urls = re.split(r'(https?://）', line)
-                    print(urls)
-                    '''
-
                     for url in urls:
                         total += 1
 
@@ -140,7 +134,7 @@ def checkIMForm(files):
                         if re.match(r'https?://[\d\w\:\/\.\?=&_\-]*', url) is None:
                             print("Incorrect Form: " + str(url))
 
-                        # 检查url是否是个有效链接
+                        # 检查url是否是个有效链接，没装这个包
                         # if not validators.url(str(url)):
                         #    print(str(url) + " is an invalid url")
 
