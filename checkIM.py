@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+检查IM字段里的url的格式是否正确以及此链接是否有效
+
+Created on Thur Aug 1 16:26:39 2019
+@author: LiYuexiang
+"""
+
 import os
 import re
 import requests
@@ -42,17 +50,12 @@ def checkIMValidation(files):
                 if not line:
                     break
 
-                # IM:\n 这里的 \n 去不掉？ 迷
-                # 获取IM字段的链接，并尝试连接
+                # 获取非空的IM字段
                 if line[:3] == 'IM:' and len(line) > 5:
 
-                    # 去掉前面的“IM:”和尾巴的“\n”
+                    # 去掉前面的“IM:”和结尾的“\n”
                     line = line.strip()[3:]
                     # line = line[3:-1]
-
-                    # 检查非http开头的IM字段
-                    if line[0] != 'h':
-                        print('Incorrect Form: ' + line)
                     urls = re.split(r';', line)
 
                     '''
@@ -100,7 +103,7 @@ def checkIMValidation(files):
                                 print(str(code) + ": " + url)
 
                         if total % 100 == 0:
-                            print(total)
+                            print("#urls: " + str(total))
 
     print("#200: " + str(code_200))
     print("#400: " + str(code_400))
@@ -122,22 +125,27 @@ def checkIMForm(files):
                 if not line:
                     break
 
+                # 先拆分成单个的链接，对于每个链接用正则表达校验是否是一个有效的链接
                 if line[:3] == 'IM:' and len(line) > 5:
 
                     # 去掉前面的“IM:”和尾巴的“\n”
                     line = line.strip()[3:]
-                    if line[0] != 'h':
-                        print('Incorrect Form: ' + line)
+
                     urls = re.split(r';', line)
 
                     for url in urls:
-                        bool = validators.url(str(url))
-                        if not bool:
+                        # 检查是否是http(s)开头
+                        if re.match(r'https?://[\d\w\:\/\.\?=&_\-]*', url) is None:
+                            print("Incorrect Form: " + str(url))
+
+                        # 检查url是否是个有效链接
+                        if not validators.url(str(url)):
                             print(str(url) + " is an invalid url")
 
 
 if __name__ == '__main__':
     file = eachFile()
-    # 检查url格式有点鸡肋，研究研究正则看看吧
+    # 检查链接的格式
     checkIMForm(file)
+    # 检查链接是否有效
     checkIMValidation(file)
