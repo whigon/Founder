@@ -1,0 +1,1501 @@
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23366.html
+CU:
+OI:
+IM:/a/10519/201908/38a31175f6c7d0eaf4df233602729f0b.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：临床急需境外新药标准复核检验用资料及样品要求（生物制品）
+AU:
+RQ:1970-01-19 02:44
+TZ:
+CT:2019-08-12 17:11:28
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/38a31175f6c7d0eaf4df233602729f0b.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/38a31175f6c7d0eaf4df233602729f0b.jpeg" src="http://res.cjyun.org/a/10519/201908/38a31175f6c7d0eaf4df233602729f0b.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/3f44c2e2ec08da23b9c4147093ddb3f4.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/3f44c2e2ec08da23b9c4147093ddb3f4.jpeg" src="http://res.cjyun.org/a/10519/201908/3f44c2e2ec08da23b9c4147093ddb3f4.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/a405d182b7c9454a0bf9bfa341bbff26.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/a405d182b7c9454a0bf9bfa341bbff26.jpeg" src="http://res.cjyun.org/a/10519/201908/a405d182b7c9454a0bf9bfa341bbff26.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/47a253cc79943ab88623d103b6ef4601.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/47a253cc79943ab88623d103b6ef4601.jpeg" src="http://res.cjyun.org/a/10519/201908/47a253cc79943ab88623d103b6ef4601.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/a3107b3c57a8699a6cae56725a9fc8e5.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/a3107b3c57a8699a6cae56725a9fc8e5.jpeg" src="http://res.cjyun.org/a/10519/201908/a3107b3c57a8699a6cae56725a9fc8e5.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23365.html
+CU:
+OI:
+IM:/a/10519/201908/22dc73f6c4116ceaa91538729557f4d9.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：临床急需境外新药标准复核检验用资料及样品要求（化学药品）
+AU:
+RQ:1970-01-19 02:44
+TZ:
+CT:2019-08-12 17:11:28
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/22dc73f6c4116ceaa91538729557f4d9.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/22dc73f6c4116ceaa91538729557f4d9.jpeg" src="http://res.cjyun.org/a/10519/201908/22dc73f6c4116ceaa91538729557f4d9.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/7a833735a2e08478f8c597dc41c5ec17.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/7a833735a2e08478f8c597dc41c5ec17.jpeg" src="http://res.cjyun.org/a/10519/201908/7a833735a2e08478f8c597dc41c5ec17.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/557134a060f0b69b6aa4d7c41e4e6cc1.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/557134a060f0b69b6aa4d7c41e4e6cc1.jpeg" src="http://res.cjyun.org/a/10519/201908/557134a060f0b69b6aa4d7c41e4e6cc1.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/1260006adbeb93bb233938c463ac4526.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/1260006adbeb93bb233938c463ac4526.jpeg" src="http://res.cjyun.org/a/10519/201908/1260006adbeb93bb233938c463ac4526.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/5b3284327ac8f5e661d5330544cb23ee.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/5b3284327ac8f5e661d5330544cb23ee.jpeg" src="http://res.cjyun.org/a/10519/201908/5b3284327ac8f5e661d5330544cb23ee.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23364.html
+CU:
+OI:
+IM:/a/10519/201908/79af7c4bfd69b358d574064c7326b2df.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国务院办公厅关于建立职业化专业化药品检查员队伍的意见 （三）
+AU:
+RQ:1970-01-19 02:44
+TZ:
+CT:2019-08-12 17:11:29
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/79af7c4bfd69b358d574064c7326b2df.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/79af7c4bfd69b358d574064c7326b2df.jpeg" src="http://res.cjyun.org/a/10519/201908/79af7c4bfd69b358d574064c7326b2df.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/ca71640c13cce25e7dd2522efe62103d.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/ca71640c13cce25e7dd2522efe62103d.jpeg" src="http://res.cjyun.org/a/10519/201908/ca71640c13cce25e7dd2522efe62103d.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/3f6340dc2bebb54d720d916468fbb7f3.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/3f6340dc2bebb54d720d916468fbb7f3.jpeg" src="http://res.cjyun.org/a/10519/201908/3f6340dc2bebb54d720d916468fbb7f3.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/17fac98615e3f2c4118ed6303980d58e.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/17fac98615e3f2c4118ed6303980d58e.jpeg" src="http://res.cjyun.org/a/10519/201908/17fac98615e3f2c4118ed6303980d58e.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/d8cebed29cb8cad59e1aab05b007d08b.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/d8cebed29cb8cad59e1aab05b007d08b.jpeg" src="http://res.cjyun.org/a/10519/201908/d8cebed29cb8cad59e1aab05b007d08b.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/46ae52c9077e6468db9142e5c3cdf543.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/46ae52c9077e6468db9142e5c3cdf543.jpeg" src="http://res.cjyun.org/a/10519/201908/46ae52c9077e6468db9142e5c3cdf543.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/b209ee8b1556227e2db0ed00e25d87cf.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/b209ee8b1556227e2db0ed00e25d87cf.jpeg" src="http://res.cjyun.org/a/10519/201908/b209ee8b1556227e2db0ed00e25d87cf.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23361.html
+CU:
+OI:
+IM:/a/10519/201908/6a33f5a49f61070666a1826e40a85d2c.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国务院办公厅关于建立职业化专业化药品检查员队伍的意见 （二）
+AU:
+RQ:1970-01-19 02:43
+TZ:
+CT:2019-08-12 17:11:29
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/6a33f5a49f61070666a1826e40a85d2c.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/6a33f5a49f61070666a1826e40a85d2c.jpeg" src="http://res.cjyun.org/a/10519/201908/6a33f5a49f61070666a1826e40a85d2c.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/4c15ad5be5cede5f0aaa97ad29ca1133.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/4c15ad5be5cede5f0aaa97ad29ca1133.jpeg" src="http://res.cjyun.org/a/10519/201908/4c15ad5be5cede5f0aaa97ad29ca1133.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/1929310c5c622aaa824c112003639b0b.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/1929310c5c622aaa824c112003639b0b.jpeg" src="http://res.cjyun.org/a/10519/201908/1929310c5c622aaa824c112003639b0b.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/3c24895cbb0c318ac33be4cb4fc459aa.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/3c24895cbb0c318ac33be4cb4fc459aa.jpeg" src="http://res.cjyun.org/a/10519/201908/3c24895cbb0c318ac33be4cb4fc459aa.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/824583906ee2a4f60ca66926c611055e.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/824583906ee2a4f60ca66926c611055e.jpeg" src="http://res.cjyun.org/a/10519/201908/824583906ee2a4f60ca66926c611055e.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23360.html
+CU:
+OI:
+IM:/a/10519/201908/d54b5220e24c35476c670096f15f9eb0.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国务院办公厅关于建立职业化专业化药品检查员队伍的意见 （一）
+AU:
+RQ:1970-01-19 02:43
+TZ:
+CT:2019-08-12 17:11:30
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/d54b5220e24c35476c670096f15f9eb0.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/d54b5220e24c35476c670096f15f9eb0.jpeg" src="http://res.cjyun.org/a/10519/201908/d54b5220e24c35476c670096f15f9eb0.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/64dcf41d7e97bf5164ac5be1f37b0895.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/64dcf41d7e97bf5164ac5be1f37b0895.jpeg" src="http://res.cjyun.org/a/10519/201908/64dcf41d7e97bf5164ac5be1f37b0895.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/51ac63f72a305ed9646d33293d150a56.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/51ac63f72a305ed9646d33293d150a56.jpeg" src="http://res.cjyun.org/a/10519/201908/51ac63f72a305ed9646d33293d150a56.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/a5f5f6767d31d47d90eae49f756122ac.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/a5f5f6767d31d47d90eae49f756122ac.jpeg" src="http://res.cjyun.org/a/10519/201908/a5f5f6767d31d47d90eae49f756122ac.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/34b0e3daed2112659ae3257f5b3edaf9.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/34b0e3daed2112659ae3257f5b3edaf9.jpeg" src="http://res.cjyun.org/a/10519/201908/34b0e3daed2112659ae3257f5b3edaf9.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/0b7cd4cb5289eca941c00d382cef3f84.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/0b7cd4cb5289eca941c00d382cef3f84.jpeg" src="http://res.cjyun.org/a/10519/201908/0b7cd4cb5289eca941c00d382cef3f84.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/9c533a31f04907c65e4300f2b7d38131.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/9c533a31f04907c65e4300f2b7d38131.jpeg" src="http://res.cjyun.org/a/10519/201908/9c533a31f04907c65e4300f2b7d38131.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23359.html
+CU:
+OI:
+IM:/a/10519/201906/7bcb6516be5f8ca142ebd7e1edafd2c6.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:《定制式医疗器械监督管理规定（试行）》解读
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:11:30
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:为规范定制式医疗器械注册监督管理，保障定制式医疗器械的安全性、有效性，满足患者个性化需求，国家药品监督管理局会同国家卫生健康委员会发布了《定制式医疗器械监督管理规定（试行）》，自2020年1月1日起施行。现就有关问题解读如下：
+一、关于定义。个性化医疗器械是指医疗器械生产企业根据医疗机构经授权的医务人员提出的临床需求设计和制造的、满足患者个性化要求的医疗器械，分为定制式医疗器械和患者匹配医疗器械。
+定制式医疗器械是指为满足指定患者的罕见特殊病损情况，在我国已上市产品难以满足临床需求的情况下，由医疗器械生产企业基于医疗机构特殊临床需求而设计和生产，用于指定患者的、预期能提高诊疗效果的个性化医疗器械。因此，定制式医疗器械具有以下特点：一是用于诊断治疗罕见特殊病损情况，预期使用人数极少，没有足够的人群样本开展临床试验；二是我国已上市产品难以满足临床需求；三是由临床医生提出，为满足特殊临床需求而设计生产；四是用于某一特定患者，预期能提高诊疗效果。
+患者匹配医疗器械是指医疗器械生产企业在依据标准规格批量生产医疗器械产品基础上，基于临床需求，按照验证确认的工艺设计和制造的、用于指定患者的个性化医疗器械。患者匹配医疗器械具有以下特点：一是在依据标准规格批量生产医疗器械产品基础上设计生产、匹配患者个性化特点，实质上可以看作标准化产品的特定规格型号；二是其设计生产必须保持在经过验证确认的范围内；三是用于可以进行临床研究的患者人群。如定制式义齿、角膜塑形用硬性透气接触镜、骨科手术导板等。患者匹配医疗器械应当按照《医疗器械注册管理办法》《体外诊断试剂注册管理办法》的规定进行注册或者备案，注册/备案的产品规格型号为所有可能生产的尺寸范围。
+二、关于监管方式。考虑到产品特点，定制式医疗器械难以通过现行注册管理模式进行注册，因此对定制式医疗器械实行上市前备案管理。定制式医疗器械生产企业与医疗机构共同作为备案人，在生产、使用定制式医疗器械前应当向医疗器械生产企业所在地（进口产品为代理人所在地）省、自治区、直辖市药品监督管理部门备案。从风险控制的角度出发，定制式医疗器械不得委托生产，备案人应当具备相应条件。当定制式医疗器械生产企业不具备相同类型的依据标准规格批量生产的医疗器械产品的有效注册证或者生产许可证时，或者主要原材料、技术原理、结构组成、关键性能指标及适用范围基本相同的产品已批准注册的，备案自动失效。备案人应当主动取消备案。
+定制式医疗器械研制、生产除应当符合医疗器械生产质量管理规范及相关附录要求外，还应当满足特殊要求，包括医工交互的人员、设计开发、质量控制及追溯管理方面的要求。
+定制式医疗器械的说明书标签应当体现定制的特点，可以追溯到特定患者。为加强上市后监管，定制式医疗器械的生产和使用实行年度报告制度；对于定制式医疗器械使用及广告、患者信息保护也提出了相应要求。
+当定制式医疗器械临床使用病例数及前期研究能够达到上市前审批要求时，相关生产企业应当按照《医疗器械注册管理办法》《体外诊断试剂注册管理办法》规定，申报注册或者办理备案。符合伦理准则且真实、准确、完整、可溯源的临床使用数据，可以作为临床评价资料用于注册申报。如金属3D打印定制式颈椎融合体，在临床应用一定例数、产品基本定型后，可以作为患者匹配医疗器械申报注册。
+三、不适用情形。患者匹配医疗器械，符合《医疗器械应急审批程序》有关规定的医疗器械，以及含有药物成分或者细胞、组织等生物活性成分的定制式医疗器械均不适用于本《规定》。
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23358.html
+CU:
+OI:
+IM:/a/10519/201908/034aa9e3261cf9aa7a44d844890184ae.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：关于实施特殊用途化妆品行政许可延续承诺制审批有关事宜的公告（二）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:11:30
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/034aa9e3261cf9aa7a44d844890184ae.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/034aa9e3261cf9aa7a44d844890184ae.jpeg" src="http://res.cjyun.org/a/10519/201908/034aa9e3261cf9aa7a44d844890184ae.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/60acfd5a14c87c02eff023f03d2a2407.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/60acfd5a14c87c02eff023f03d2a2407.jpeg" src="http://res.cjyun.org/a/10519/201908/60acfd5a14c87c02eff023f03d2a2407.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/f43d7f9d4b309a4e21bf67f04bc2a254.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/f43d7f9d4b309a4e21bf67f04bc2a254.jpg" src="http://res.cjyun.org/a/10519/201908/f43d7f9d4b309a4e21bf67f04bc2a254.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/61ea2df3cf1b3fc11c6c7aa11c60c506.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/61ea2df3cf1b3fc11c6c7aa11c60c506.jpeg" src="http://res.cjyun.org/a/10519/201908/61ea2df3cf1b3fc11c6c7aa11c60c506.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/febb270fd6cbd2b19d9c4d01ec4b81a7.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/febb270fd6cbd2b19d9c4d01ec4b81a7.jpeg" src="http://res.cjyun.org/a/10519/201908/febb270fd6cbd2b19d9c4d01ec4b81a7.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23357.html
+CU:
+OI:
+IM:/a/10519/201908/79a378b324fad8cca9b8f534029ec3ec.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：关于实施特殊用途化妆品行政许可延续承诺制审批有关事宜的公告（二）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:11:30
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/79a378b324fad8cca9b8f534029ec3ec.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/79a378b324fad8cca9b8f534029ec3ec.jpeg" src="http://res.cjyun.org/a/10519/201908/79a378b324fad8cca9b8f534029ec3ec.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/55c1e6305be96cf5e92c6a69ef6b04c3.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/55c1e6305be96cf5e92c6a69ef6b04c3.jpeg" src="http://res.cjyun.org/a/10519/201908/55c1e6305be96cf5e92c6a69ef6b04c3.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/f92091bcc33ff34c73731bccd4f719b7.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/f92091bcc33ff34c73731bccd4f719b7.jpg" src="http://res.cjyun.org/a/10519/201908/f92091bcc33ff34c73731bccd4f719b7.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/c24b4b4d759fa30561561bb8c5d4a417.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/c24b4b4d759fa30561561bb8c5d4a417.jpeg" src="http://res.cjyun.org/a/10519/201908/c24b4b4d759fa30561561bb8c5d4a417.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/4cde81e2f9c736b40e4857bd48418013.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/4cde81e2f9c736b40e4857bd48418013.jpeg" src="http://res.cjyun.org/a/10519/201908/4cde81e2f9c736b40e4857bd48418013.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23356.html
+CU:
+OI:
+IM:/a/10519/201908/8ac2820eccf7773612806d77f7634657.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：关于实施特殊用途化妆品行政许可延续承诺制审批有关事宜的公告（一）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:11:36
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/8ac2820eccf7773612806d77f7634657.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/8ac2820eccf7773612806d77f7634657.jpeg" src="http://res.cjyun.org/a/10519/201908/8ac2820eccf7773612806d77f7634657.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/fbb22a4e00eef8679d8da77809375ac5.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/fbb22a4e00eef8679d8da77809375ac5.jpeg" src="http://res.cjyun.org/a/10519/201908/fbb22a4e00eef8679d8da77809375ac5.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/7dafe73204f0e89747cc55aabb6c5a3e.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/7dafe73204f0e89747cc55aabb6c5a3e.jpg" src="http://res.cjyun.org/a/10519/201908/7dafe73204f0e89747cc55aabb6c5a3e.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/01cf0dc3cbfc5a91be98de2e0c9b67ba.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/01cf0dc3cbfc5a91be98de2e0c9b67ba.jpeg" src="http://res.cjyun.org/a/10519/201908/01cf0dc3cbfc5a91be98de2e0c9b67ba.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23355.html
+CU:
+OI:
+IM:/a/10519/201908/876aa9d0bd11c14912096fe53e93aedf.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国家药品监督管理局关于加快推进药品智慧监管的行动计划（六）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:11:37
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/876aa9d0bd11c14912096fe53e93aedf.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/876aa9d0bd11c14912096fe53e93aedf.jpeg" src="http://res.cjyun.org/a/10519/201908/876aa9d0bd11c14912096fe53e93aedf.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/fbd9203ea093b43784c81af911f9ae0e.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/fbd9203ea093b43784c81af911f9ae0e.jpeg" src="http://res.cjyun.org/a/10519/201908/fbd9203ea093b43784c81af911f9ae0e.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/9a5d8243660d322cfe223d265f1cfd68.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/9a5d8243660d322cfe223d265f1cfd68.jpeg" src="http://res.cjyun.org/a/10519/201908/9a5d8243660d322cfe223d265f1cfd68.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/50046e2b651e178bb841187b437fd587.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/50046e2b651e178bb841187b437fd587.jpeg" src="http://res.cjyun.org/a/10519/201908/50046e2b651e178bb841187b437fd587.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/f9aa40c3093e7ccb89c29dbeb41a43e7.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/f9aa40c3093e7ccb89c29dbeb41a43e7.jpeg" src="http://res.cjyun.org/a/10519/201908/f9aa40c3093e7ccb89c29dbeb41a43e7.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23354.html
+CU:
+OI:
+IM:/a/10519/201908/2a0cf37a39ea867bcca6d802547e20a5.jpg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国家药品监督管理局关于加快推进药品智慧监管的行动计划（五）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:11:37
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/2a0cf37a39ea867bcca6d802547e20a5.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/2a0cf37a39ea867bcca6d802547e20a5.jpg" src="http://res.cjyun.org/a/10519/201908/2a0cf37a39ea867bcca6d802547e20a5.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/d9a8fa3843947d6962ca0a0f53665627.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/d9a8fa3843947d6962ca0a0f53665627.jpeg" src="http://res.cjyun.org/a/10519/201908/d9a8fa3843947d6962ca0a0f53665627.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/7d9bbe2b372cae2700173e44679b323f.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/7d9bbe2b372cae2700173e44679b323f.jpeg" src="http://res.cjyun.org/a/10519/201908/7d9bbe2b372cae2700173e44679b323f.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/f548559e9b92e27ef4ed495a4ff02678.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/f548559e9b92e27ef4ed495a4ff02678.jpeg" src="http://res.cjyun.org/a/10519/201908/f548559e9b92e27ef4ed495a4ff02678.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/6893aeb3568683adc0e78fbf629c0ea4.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/6893aeb3568683adc0e78fbf629c0ea4.jpeg" src="http://res.cjyun.org/a/10519/201908/6893aeb3568683adc0e78fbf629c0ea4.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/376386aadeb0054b8f9e96d7ca6c869d.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/376386aadeb0054b8f9e96d7ca6c869d.jpeg" src="http://res.cjyun.org/a/10519/201908/376386aadeb0054b8f9e96d7ca6c869d.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23353.html
+CU:
+OI:
+IM:/a/10519/201907/31aa3f6d8ab476f2c5e6a20a88cfce27.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:《关于实施特殊用途化妆品行政许可延续承诺制审批有关事宜的公告》政策解读
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:11:38
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:一、出台背景
+为认真落实党中央国务院“放管服”的要求，进一步激发市场主体活力，在充分调研，广泛听取社会各方意见的基础上，化妆品监管司结合化妆品监管特点，制定出台了本《公告》。通过实施特殊用途化妆品延续许可承诺制审批，进一步提升审评审批效率，夯实企业主体责任。
+二、什么是特殊用途化妆品行政许可延续承诺制审批？
+答：批件有效期届满需要延续的特殊用途化妆品，由申请人对照现行的法律法规和标准规范对产品进行系统自查，经自查合格的向国家药品监督管理局承诺产品符合要求并提交行政许可延续申请。国家药品监督管理局不再组织事前的技术审评工作，对企业自查合格的产品直接准予延续，通过组织事后技术审查和加强日常监督检查持续保障产品的质量安全。
+申请行政许可延续的特殊用途化妆品一般已经在市场销售4年或以上时间，且前期已经经过严格技术审评和市场实践检验，安全性方面有一定的保障，具备将技术审评后置、实施承诺制审批条件。
+三、本次调整拟重点解决的问题？
+答：一是通过优化特殊用途化妆品行政许可延续流程，进一步提升审评审批效率；二是通过细化明确企业产品的自查要求，进一步夯实企业质量安全主体责任；三是明确未获延续许可的，自批件有效期届满之日起产品不得生产或进口，统一监督执法要求。
+四、开展产品自查和提交延续申请的时间如何把握？
+答：需要申请行政许可延续的，申请人应当自产品批件届满前6个月起对产品开展全面自查，并在批件有效期届满30个工作日前提交延续申请。例：一款产品批件有效期为2016年6月1日至2020年5月31日，企业应当在2019年11月30日以后开展产品自查工作，自查的范围应当包括2016年6月1日—2019年11月30日期间产品生产经营情况，该产品行政许可延续申请应当于2020年4月20日前（有效期届满30个工作日前）提交。
+五、受理审查是否允许补正资料？
+答：受理审查不设“补正资料”结论，经审查不符合要求的不予受理，退回所有申请资料并一次性告知申请人具体原因。申请人可再次提交申请，但应当在批件有效期届满30个工作日前提交，超出该期限的不再受理。
+六、准予延续的批件有效期如何计算？
+答：准予延续的批件有效期起始日期自原批件有效期届满之日后起算。例：一款产品的原批件有效期为2016年6月1日至2020年5月31日，准予延续后批件有效期为2020年6月1日至2024年5月31日。
+七、事后技术审查的补充资料时限如何确定？
+答：补充资料环节不再设统一时限要求，由化妆品技术审评部门根据需要补充资料的具体情形，合理设定补充资料时限。
+八、对于事后审查发现不符合延续要求的产品，如何处理？
+答：本公告对审评审批程序进行了调整，但安全性要求不降低，事后技术审查发现资料内容存在问题需要补充或说明的，要求申请人限期补充资料；发现存在虚假承诺或提交虚假资料情形的，依法撤销产品批件。
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23352.html
+CU:
+OI:
+IM:/a/10519/201908/a2dc6c847118db4f4b03ccb91125d075.jpg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国家药品监督管理局关于加快推进药品智慧监管的行动计划（四）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:11:39
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/e457992aa7e3cfe8db24cc0a42c2ed8a.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/e457992aa7e3cfe8db24cc0a42c2ed8a.jpg" src="http://res.cjyun.org/a/10519/201908/e457992aa7e3cfe8db24cc0a42c2ed8a.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/c61bb15a282f5552de36181af17de319.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/c61bb15a282f5552de36181af17de319.jpeg" src="http://res.cjyun.org/a/10519/201908/c61bb15a282f5552de36181af17de319.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/c96a5ae1bce29a75046d68784daea317.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/c96a5ae1bce29a75046d68784daea317.jpg" src="http://res.cjyun.org/a/10519/201908/c96a5ae1bce29a75046d68784daea317.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/c35428bdf9c0fcb49994cae78aaa4d52.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/c35428bdf9c0fcb49994cae78aaa4d52.jpeg" src="http://res.cjyun.org/a/10519/201908/c35428bdf9c0fcb49994cae78aaa4d52.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/53d5d62f8d7d9f10aab001b94c091e88.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/53d5d62f8d7d9f10aab001b94c091e88.jpeg" src="http://res.cjyun.org/a/10519/201908/53d5d62f8d7d9f10aab001b94c091e88.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/9f70f245c9238da3895e2d05c90e4bd2.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/9f70f245c9238da3895e2d05c90e4bd2.jpeg" src="http://res.cjyun.org/a/10519/201908/9f70f245c9238da3895e2d05c90e4bd2.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/498c7dae0abded7bfc72692e94cec68c.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/498c7dae0abded7bfc72692e94cec68c.jpeg" src="http://res.cjyun.org/a/10519/201908/498c7dae0abded7bfc72692e94cec68c.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/37ee2cd5a8ee744c71be79f8d43a7385.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/37ee2cd5a8ee744c71be79f8d43a7385.jpeg" src="http://res.cjyun.org/a/10519/201908/37ee2cd5a8ee744c71be79f8d43a7385.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23351.html
+CU:
+OI:
+IM:/a/10519/201908/61e9cb62339bdc0b9ff659c06540fdfb.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：进口药材管理办法
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:11:39
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/61e9cb62339bdc0b9ff659c06540fdfb.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/61e9cb62339bdc0b9ff659c06540fdfb.jpeg" src="http://res.cjyun.org/a/10519/201908/61e9cb62339bdc0b9ff659c06540fdfb.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/a97c0f09eb310ab76ddb06169146a7c6.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/a97c0f09eb310ab76ddb06169146a7c6.jpeg" src="http://res.cjyun.org/a/10519/201908/a97c0f09eb310ab76ddb06169146a7c6.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/dd70d2a1dcfd52bc41ce664ac0a5c725.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/dd70d2a1dcfd52bc41ce664ac0a5c725.jpeg" src="http://res.cjyun.org/a/10519/201908/dd70d2a1dcfd52bc41ce664ac0a5c725.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/e77268922255bdda879197257dd8103c.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/e77268922255bdda879197257dd8103c.jpeg" src="http://res.cjyun.org/a/10519/201908/e77268922255bdda879197257dd8103c.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/cb39a63d5dfa94909463ab32c8dae4d9.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/cb39a63d5dfa94909463ab32c8dae4d9.jpeg" src="http://res.cjyun.org/a/10519/201908/cb39a63d5dfa94909463ab32c8dae4d9.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/a7649bc231a8701e32901668bb929fd1.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/a7649bc231a8701e32901668bb929fd1.jpeg" src="http://res.cjyun.org/a/10519/201908/a7649bc231a8701e32901668bb929fd1.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/895b8ea08bb24d90330af0b530bb7bcc.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/895b8ea08bb24d90330af0b530bb7bcc.jpeg" src="http://res.cjyun.org/a/10519/201908/895b8ea08bb24d90330af0b530bb7bcc.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/79311f8e3477fb6ef5d8e74135b2375f.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/79311f8e3477fb6ef5d8e74135b2375f.jpeg" src="http://res.cjyun.org/a/10519/201908/79311f8e3477fb6ef5d8e74135b2375f.jpeg"  />
+<img data-mce-src="http://hbsyjd.cjyun.orghttp://res.cjyun.org/a/10519/201908/46303636884f0d5fb3394ccb6c7a5866.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/46303636884f0d5fb3394ccb6c7a5866.jpg" src="http://res.cjyun.org/a/10519/201908/46303636884f0d5fb3394ccb6c7a5866.jpg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23350.html
+CU:
+OI:
+IM:/a/10519/201908/e677054825e453999e9eef2782e54505.jpg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国家药品监督管理局关于加快推进药品智慧监管的行动计划（三）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:11:39
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/73a26e10acc6a1e6e012049d071a6f0b.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/73a26e10acc6a1e6e012049d071a6f0b.jpg" src="http://res.cjyun.org/a/10519/201908/73a26e10acc6a1e6e012049d071a6f0b.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/d4509c2932395e9af4780044307fbdbe.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/d4509c2932395e9af4780044307fbdbe.jpg" src="http://res.cjyun.org/a/10519/201908/d4509c2932395e9af4780044307fbdbe.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/92125b74faa6368eea85a1ca322015ae.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/92125b74faa6368eea85a1ca322015ae.jpg" src="http://res.cjyun.org/a/10519/201908/92125b74faa6368eea85a1ca322015ae.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/03231814a53c34af27b7334e4cca9490.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/03231814a53c34af27b7334e4cca9490.jpg" src="http://res.cjyun.org/a/10519/201908/03231814a53c34af27b7334e4cca9490.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/39082b969034114eeef45ff0e72daac8.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/39082b969034114eeef45ff0e72daac8.jpeg" src="http://res.cjyun.org/a/10519/201908/39082b969034114eeef45ff0e72daac8.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/be28e33f1c9b9dbc192be701dee0529d.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/be28e33f1c9b9dbc192be701dee0529d.jpeg" src="http://res.cjyun.org/a/10519/201908/be28e33f1c9b9dbc192be701dee0529d.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/0c6874f94040c2e09bca8a77d50c8f0d.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/0c6874f94040c2e09bca8a77d50c8f0d.jpg" src="http://res.cjyun.org/a/10519/201908/0c6874f94040c2e09bca8a77d50c8f0d.jpg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23349.html
+CU:
+OI:
+IM:/a/10519/201908/87d0a0577cd804c0a784fb6983ace1ca.jpg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国家药品监督管理局关于加快推进药品智慧监管的行动计划（二）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:11:40
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/d0ccaea2e3f429641395f59e36317b29.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/d0ccaea2e3f429641395f59e36317b29.jpg" src="http://res.cjyun.org/a/10519/201908/d0ccaea2e3f429641395f59e36317b29.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/cb38aa60e919085a7b3d0934f26a1d07.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/cb38aa60e919085a7b3d0934f26a1d07.jpeg" src="http://res.cjyun.org/a/10519/201908/cb38aa60e919085a7b3d0934f26a1d07.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/ca27387c82d8c69b1b566a5d8d2a1104.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/ca27387c82d8c69b1b566a5d8d2a1104.jpeg" src="http://res.cjyun.org/a/10519/201908/ca27387c82d8c69b1b566a5d8d2a1104.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/58221de1490debf28a2a0ba905ce53a0.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/58221de1490debf28a2a0ba905ce53a0.jpeg" src="http://res.cjyun.org/a/10519/201908/58221de1490debf28a2a0ba905ce53a0.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/6b4ef2147da7821747ea27fa6a0519fe.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/6b4ef2147da7821747ea27fa6a0519fe.jpeg" src="http://res.cjyun.org/a/10519/201908/6b4ef2147da7821747ea27fa6a0519fe.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/53acf05bd5294fcbd81ac5e7f85397e6.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/53acf05bd5294fcbd81ac5e7f85397e6.jpg" src="http://res.cjyun.org/a/10519/201908/53acf05bd5294fcbd81ac5e7f85397e6.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/5fac2a42dcdf2e5a5903a0215913bd02.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/5fac2a42dcdf2e5a5903a0215913bd02.jpeg" src="http://res.cjyun.org/a/10519/201908/5fac2a42dcdf2e5a5903a0215913bd02.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23348.html
+CU:
+OI:
+IM:/a/10519/201908/46113daa22371c1d8663d622b75de4c9.jpg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国家药品监督管理局关于加快推进药品智慧监管的行动计划（一）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:12:05
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/e360a173ba395f7cf6d5d42970e7b72c.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/e360a173ba395f7cf6d5d42970e7b72c.jpg" src="http://res.cjyun.org/a/10519/201908/e360a173ba395f7cf6d5d42970e7b72c.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/ca1bc609965ad3c79653c21ce4654d83.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/ca1bc609965ad3c79653c21ce4654d83.jpeg" src="http://res.cjyun.org/a/10519/201908/ca1bc609965ad3c79653c21ce4654d83.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/a8c9c39cacf64f7f775b525595bb6af8.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/a8c9c39cacf64f7f775b525595bb6af8.jpeg" src="http://res.cjyun.org/a/10519/201908/a8c9c39cacf64f7f775b525595bb6af8.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/1938959e86884f8fa752b9f8658dbac6.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/1938959e86884f8fa752b9f8658dbac6.jpeg" src="http://res.cjyun.org/a/10519/201908/1938959e86884f8fa752b9f8658dbac6.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/89aa22412daaa2aa584bedebc7ace864.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/89aa22412daaa2aa584bedebc7ace864.jpeg" src="http://res.cjyun.org/a/10519/201908/89aa22412daaa2aa584bedebc7ace864.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/7edd1e0cb27ed4572824eb08894f7f2d.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/7edd1e0cb27ed4572824eb08894f7f2d.jpeg" src="http://res.cjyun.org/a/10519/201908/7edd1e0cb27ed4572824eb08894f7f2d.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/bfd301c795ae93a9b9245dee8f69e152.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/bfd301c795ae93a9b9245dee8f69e152.jpg" src="http://res.cjyun.org/a/10519/201908/bfd301c795ae93a9b9245dee8f69e152.jpg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23347.html
+CU:
+OI:
+IM:/a/10519/201908/74bcea3235efe947d4fa68cd9e68d300.jpg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:《进口药材管理办法》政策解读
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:12:05
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:一、可申请进口的药材品种有哪些？
+申请进口的药材应当是中国药典现行版、进口药材标准及部颁标准等收载的品种。同时，为保证少数民族地区用药需求，对未收载入国家药品标准的，但相应的省、自治区药材标准收载的少数民族药材也可申请进口，供当地习用。
+二、药材进口单位需具备哪些资质？
+进口单位应当是中国境内的中成药上市许可持有人、中药生产企业，以及具有中药材或者中药饮片经营范围的药品经营企业。考虑药材不同于制剂，其储存和养护有特殊的要求，以避免发霉、虫蛀，且通常单次进口量较大，为保证药材质量，要求药品经营企业需具有中药材或中药饮片经营范围。
+三、哪些药材品种可列入《非首次进口药材品种目录》？
+原《进口药材管理办法》试行期间，国家药品监管部门已发布两批《非首次进口药材品种目录》，包括73个品种，目录中涉及药材名称、执行标准以及药材的产地，如哈萨克斯坦产的甘草、马来西亚产的血竭。下一步，国家药监局会适时对目录进行修订。
+四、首次进口程序适用哪些情形？
+申请人第一次进口《非首次进口药材品种目录》以外的品种，需按首次进口程序申报。当其再次从该国家进口该品种时，则按非首次进口的程序办理进口。但其他申请人不能“搭便车”，其第一次从该国家进口该品种时仍需按首次进口程序申报。
+之所以规定到具体的“申请人”，主要有以下考虑：进口药材的货源一般是进口单位的商业秘密，其他申请人找到相同的货源存有难度；其次，药材讲究产地，讲究道地性，规定到具体的“申请人”，可固定货源，有利于保证药材的质量。
+五、药材可从哪些（边境）口岸进口通关？
+药材应当从国务院批准的允许药品进口的口岸或者允许药材进口的边境口岸进口。目前，药品进口口岸和药材进口边境口岸各为22个。进口单位可根据自身需要，选择相应的（边境）口岸办理进口通关。
+六、如何办理进口药材的审批？
+为落实“放管服”改革要求，方便申请人，对首次进口药材，国家药监局委托省级药品监督管理部门进行审批。申请人应向其所在地省级药品监督管理部门申报进口，其所在地省级药品检验机构承担样品检验工作。对符合要求的，发给一次性进口药材批件。
+对非首次进口药材的进口程序进行简化，进口单位可直接办理备案。
+七、如何办理进口药材的备案？
+对于首次进口药材，申请人应当在取得进口药材批件后1年内，从进口药材批件注明的到货口岸组织药材进口。
+首次和非首次进口药材，进口单位均应向药品进口口岸或药材进口边境口岸所在地负责药品监督管理的部门办理进口药材备案，领取进口药品通关单。
+八、什么是口岸药品检验机构？
+《进口药材管理办法》中的“口岸药品检验机构”指口岸或者边境口岸所在地省级药品检验机构和国家药监局确定的药品检验机构。
+九、如何办理进口药材的口岸检验？
+进口单位在办理进口药材备案时，可选择相应的口岸药品检验机构。口岸药品检验机构将在规定的时间内与进口单位商定现场抽样时间。
+十、如何保证进口药材的质量？
+一是严格药材执行的标准，对于标准具有不同出处的品种，其标准执行的先后顺序为：中国药典现行版、进口药材标准、部颁标准等。少数民族药材可执行相应的省、自治区药材标准。
+二是加强溯源管理，进口药材须经口岸检验合格后，方可上市流通使用。药品使用、生产方采购进口药材时，应当查验口岸药品检验机构出具的进口药材检验报告书复印件和注明“已抽样”并加盖公章的进口药品通关单复印件，严格执行药品追溯管理的有关规定。
+三是提高信息化水平，通过建立统一的信息平台，整合进口药材审批、备案、口岸检验等多个环节信息，实现数据共享、智慧监管，并公开违法违规情形，实现社会共治。
+十一、将来能否实现电子化申报？
+在信息平台设计方案中，已考虑资料上传功能，为将来电子申报留下接口。但考虑个别地区电子申报存在一定难度，待信息平台运行一段时间，各环节磨合好后，会逐步推进电子申报，最大程度地方便药材进口。
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23346.html
+CU:
+OI:
+IM:/a/10519/201908/55308a640cc8026258dee2e73ba39d8f.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国家药监局综合司关于开展化妆品“线上净网线下清源”风险排查处置工作的通知
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:12:05
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/a737c9248cf911f9245e403e6f3fc6e8.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/a737c9248cf911f9245e403e6f3fc6e8.jpeg" src="http://res.cjyun.org/a/10519/201908/a737c9248cf911f9245e403e6f3fc6e8.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/b5c29d24d16ae81b5874decbe31932a1.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/b5c29d24d16ae81b5874decbe31932a1.jpeg" src="http://res.cjyun.org/a/10519/201908/b5c29d24d16ae81b5874decbe31932a1.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/168ccc047669790631a5b452de11b706.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/168ccc047669790631a5b452de11b706.jpeg" src="http://res.cjyun.org/a/10519/201908/168ccc047669790631a5b452de11b706.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/3c7da90714bfe1539a3c1fa70c329dbb.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/3c7da90714bfe1539a3c1fa70c329dbb.jpeg" src="http://res.cjyun.org/a/10519/201908/3c7da90714bfe1539a3c1fa70c329dbb.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/c3b6de7347335ee322b0a400f1ff316e.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/c3b6de7347335ee322b0a400f1ff316e.jpeg" src="http://res.cjyun.org/a/10519/201908/c3b6de7347335ee322b0a400f1ff316e.jpeg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23345.html
+CU:
+OI:
+IM:/a/10519/201908/7531d4df0348a9d528b36c9de69b08a1.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国家药监局综合司关于进一步加强无菌和植入性医疗器械监督检查的通知（二）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:12:05
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/7531d4df0348a9d528b36c9de69b08a1.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/7531d4df0348a9d528b36c9de69b08a1.jpeg" src="http://res.cjyun.org/a/10519/201908/7531d4df0348a9d528b36c9de69b08a1.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/6b046922d4744027025d83df253b7390.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/6b046922d4744027025d83df253b7390.jpeg" src="http://res.cjyun.org/a/10519/201908/6b046922d4744027025d83df253b7390.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/f00379ccbf528d0ee7f64de3761d305a.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/f00379ccbf528d0ee7f64de3761d305a.jpg" src="http://res.cjyun.org/a/10519/201908/f00379ccbf528d0ee7f64de3761d305a.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/eeca45c76fdda965e680c0804a612395.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/eeca45c76fdda965e680c0804a612395.jpeg" src="http://res.cjyun.org/a/10519/201908/eeca45c76fdda965e680c0804a612395.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/6eca26c2017c0cf2128befacf1d6d0ef.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/6eca26c2017c0cf2128befacf1d6d0ef.jpg" src="http://res.cjyun.org/a/10519/201908/6eca26c2017c0cf2128befacf1d6d0ef.jpg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23344.html
+CU:
+OI:
+IM:/a/10519/201908/83c078fd35e5d1361940b09df1149b18.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国家药监局综合司关于进一步加强无菌和植入性医疗器械监督检查的通知（一）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:12:06
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/1f0842d3bf517e9e5f215ce233bd2c0f.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/1f0842d3bf517e9e5f215ce233bd2c0f.jpeg" src="http://res.cjyun.org/a/10519/201908/1f0842d3bf517e9e5f215ce233bd2c0f.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/17b1afa142fc4833c04a882e6a782efa.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/17b1afa142fc4833c04a882e6a782efa.jpeg" src="http://res.cjyun.org/a/10519/201908/17b1afa142fc4833c04a882e6a782efa.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/7ed7ae11fa926336c5a83f84380370da.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/7ed7ae11fa926336c5a83f84380370da.jpg" src="http://res.cjyun.org/a/10519/201908/7ed7ae11fa926336c5a83f84380370da.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/c6e44e60bb625d58deef9ee3f73b73db.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/c6e44e60bb625d58deef9ee3f73b73db.jpeg" src="http://res.cjyun.org/a/10519/201908/c6e44e60bb625d58deef9ee3f73b73db.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/ded57be989b8faae2f759fd6c7fec454.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/ded57be989b8faae2f759fd6c7fec454.jpeg" src="http://res.cjyun.org/a/10519/201908/ded57be989b8faae2f759fd6c7fec454.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/1518901fbb7d35e273ffca334e03cbe6.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/1518901fbb7d35e273ffca334e03cbe6.jpeg" src="http://res.cjyun.org/a/10519/201908/1518901fbb7d35e273ffca334e03cbe6.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/9f26c395b4a552edde6fbf511309bb0c.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/9f26c395b4a552edde6fbf511309bb0c.jpg" src="http://res.cjyun.org/a/10519/201908/9f26c395b4a552edde6fbf511309bb0c.jpg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23343.html
+CU:
+OI:
+IM:/a/10519/201908/417ed07f5ee400d540add6ffed4fb644.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：国家药监局部署开展医疗器械“清网”行动
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:12:06
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-mce-src="http://res.cjyun.org/a/10519/201908/417ed07f5ee400d540add6ffed4fb644.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/417ed07f5ee400d540add6ffed4fb644.jpeg" src="http://res.cjyun.org/a/10519/201908/417ed07f5ee400d540add6ffed4fb644.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/b6033603f57e3fac2c27525ae9faf27b.jpeg" data-origin-src="http://res.cjyun.org/a/10519/201908/b6033603f57e3fac2c27525ae9faf27b.jpeg" src="http://res.cjyun.org/a/10519/201908/b6033603f57e3fac2c27525ae9faf27b.jpeg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/0c281102e8649bd20d629e26359f8ea1.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/0c281102e8649bd20d629e26359f8ea1.jpg" src="http://res.cjyun.org/a/10519/201908/0c281102e8649bd20d629e26359f8ea1.jpg"  />
+<img data-mce-src="http://res.cjyun.org/a/10519/201908/d721b1c3d7b5e8014816415d42f39463.jpg" data-origin-src="http://res.cjyun.org/a/10519/201908/d721b1c3d7b5e8014816415d42f39463.jpg" src="http://res.cjyun.org/a/10519/201908/d721b1c3d7b5e8014816415d42f39463.jpg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23342.html
+CU:
+OI:
+IM:/a/10519/201907/a0aeb3615368f3c04302ec3eb776e2f0.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:《化学药品注册分类改革工作方案》政策解读（五）
+AU:
+RQ:1970-01-19 02:42
+TZ:
+CT:2019-08-12 17:12:08
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:一、化学药品新注册分类2类注册申请，能否免收新药注册费？
+新注册分类2类为改良型新药，应按要求缴纳注册费。
+二、已按规定免收临床试验注册费的创新药，在临床试验期间提出的补充申请是否免收注册费？
+符合国务院规定的小微企业，已按规定免收临床试验注册费的创新药，在临床试验期间提出的补充申请免收注册费。
+三、属于化学药品新注册分类5.2类，且符合《关于化学药生物等效性试验实行备案管理的公告》（2015年第257号）备案范围的品种，BE试验样品及对照药品如何办理进口备案手续？
+申请人在化学仿制药生物等效性与临床试验备案信息平台进行BE试验备案，待完成备案后，持备案号到口岸药品监管部门办理进口备案手续。
+四、属于化学药品新注册分类5.2的放射性药品、麻醉药品、第一类精神药品、第二类精神药品、药品类易制毒化学品、及细胞毒类药品，BE试验样品及对照药品如何办理进口备案手续？
+申请人进行自我评估后，在能够确保受试者安全的前提下，也可进行BE试验备案，待完成备案后，持备案号到口岸药品监管部门办理进口备案手续。其中，对于麻醉药品、第一类精神药品、第二类精神药品，应向国家药品监督管理局申请核发《进口准许证》。
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
+%&
+TP:215
+CW:
+MI:http://m-hbsyjd.cjyun.org:80/zcjd/p/23310.html
+CU:
+OI:
+IM:/a/10519/201908/ae72624b354a672968a59bd0da66e565.jpeg
+SN:长江云-手机客户端
+BN:新闻-药品安全-政策解读
+TD:572561901
+FD:-481144562
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:图解政策：化妆品监督管理常见问题解答（五）
+AU:
+RQ:1970-01-19 02:39
+TZ:
+CT:2019-08-12 17:12:08
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:<img data-origin-src="http://res.cjyun.org/a/10519/201908/ae72624b354a672968a59bd0da66e565.jpeg" src="http://res.cjyun.org/a/10519/201908/ae72624b354a672968a59bd0da66e565.jpeg"  />
+<img data-origin-src="http://res.cjyun.org/a/10519/201908/ce4f7e06ece3ddba7359051860fdc842.jpg" src="http://res.cjyun.org/a/10519/201908/ce4f7e06ece3ddba7359051860fdc842.jpg"  />
+<img data-origin-src="http://res.cjyun.org/a/10519/201908/c912d83df939de1072791c3e90e87620.jpg" src="http://res.cjyun.org/a/10519/201908/c912d83df939de1072791c3e90e87620.jpg"  />
+<img data-origin-src="http://res.cjyun.org/a/10519/201908/6e941f565e5aff8374bd1be52d33d27b.jpg" src="http://res.cjyun.org/a/10519/201908/6e941f565e5aff8374bd1be52d33d27b.jpg"  />
+<img data-origin-src="http://res.cjyun.org/a/10519/201908/a448ac49f597b832cc2dc738a1090e49.jpg" src="http://res.cjyun.org/a/10519/201908/a448ac49f597b832cc2dc738a1090e49.jpg"  />
+<img data-origin-src="http://res.cjyun.org/a/10519/201908/eb89197273958fdba9dd13567339cec6.jpg" src="http://res.cjyun.org/a/10519/201908/eb89197273958fdba9dd13567339cec6.jpg"  />
+<img data-origin-src="http://res.cjyun.org/a/10519/201908/f4c0d3eab829a65973f86ca4b3351567.jpg" src="http://res.cjyun.org/a/10519/201908/f4c0d3eab829a65973f86ca4b3351567.jpg"  />
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%

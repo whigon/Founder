@@ -1,0 +1,107 @@
+%&
+TP:215
+CW:
+MI:http://m.hbtv.com.cn:80/p/1722761.html
+CU:
+OI:http://m.hbtv.com.cn/p/1722761.html
+IM:https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0001.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0002.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0003.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0004.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0005.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0006.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0007.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0008.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0009.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0010.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0011.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0012.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0013.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0014.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0015.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0016.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0017.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0018.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0019.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0020.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0021.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0022.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0023.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0024.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0025.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0026.jpg;https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0027.jpg
+SN:云上大悟-手机客户端
+BN:新闻-湖北
+TD:1084365556
+FD:-113737939
+SP:
+CL:
+DT:301
+PT:
+LC:
+II:0
+NC:
+NR:
+NZ:
+NS:
+NF:
+LR:
+ST:喜迎新中国成立70年 数读湖北大变化
+AU:
+RQ:2019-08-06 09:52
+TZ:
+CT:2019-08-06 09:57:02
+LV:
+SO:
+BD:
+PN:1
+XP:
+PC:
+EN:
+EP:
+IZ:1
+AC:
+RA:0
+SD:
+IB:
+BO:
+LN:
+CI:
+OR:
+TX:新中国成立70年来，特别是党的十八大以来，在以习近平同志为核心的党中央坚强领导下，湖北始终与共和国同奋进、共成长，经济社会发展取得巨大成就，荆楚大地发生翻天覆地的变化。70年，乘着党和国家政策的东风，日益成为改革创新与内陆开放高地的湖北，正在砥砺奋进中写就高质量发展新的华章。
+数读湖北，让我们以一组数字，重温新中国成立70年来湖北取得的历史性成就，发生的历史性巨变。
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0001.jpg">
+01湖北人为自己点赞
+70年来，湖北经济持续快速增长，经济体量规模连上新台阶，实现了从低收入水平向中等收入偏上水平的历史性跨越。
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0002.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0003.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0004.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0005.jpg">
+湖北从一穷二白、温饱不足到即将全面建成小康社会的历史性跨越，经济总量持续增长，经济实力不断增强。印证了新中国成立70年来，中华民族从站起来、富起来到强起来的恢弘历史，更成为中国共产党不忘初心、牢记使命，为人民谋幸福、为民族谋复兴的生动注脚。
+02 农业大省变身经济强省
+新中国成立以来，特别是改革开放以来，湖北经济结构发生深刻变化，产业结构、需求结构持续改善。
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0006.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0007.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0008.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0009.jpg">
+从农重工轻到三产协调，经济发展协调性和可持续性所迸发的新动能后劲十足，态势更强、基础更稳。党的十八大以来，始终遵循高质量发展要求，全面贯彻“巩固、增强、提升、畅通”八字方针，加快新旧动能转换，推动质量变革、效率变革、动力变革，经济发展的内在活力和社会创造力大大增强。
+03 你我之间，不再遥远
+如今湖北，异地之间，无论是驾乘见面还是电话视频，均快速畅通。70年来，基础服务的供给能力实现了跨越式提升。
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0010.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0011.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0012.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0013.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0014.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0015.jpg">
+湖北素有“九省通衢”之称，居中部之中，依托良好的区位条件，70年来，湖北交通跨越式发展，交通建设成就辉煌。当前，湖北交通外连世界，内惠民生，立体交通大格局形成，极大地改善了百姓出行、货物流通，“九省通衢”升格为“九州通衢”，为全面建成“祖国立交桥”奠定了坚实基础。
+04 我们的湖北，世界的湖北
+自贸区建设先行先试、对外贸易规模快速扩大、外贸结构持续优化，你熟悉的湖北，在国际崭露头角，成为世界的湖北。
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0016.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0017.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0018.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0019.jpg">
+湖北自古就有敢为人先、敢闯敢试的首创精神，筚路蓝缕、以启山林的成语就出自湖北。在改革开放的各个重要历史节点，也深深烙下了湖北人民奋进的足迹。沙市城市经济体制改革开创全国先河，武汉“两通”起飞打开内陆开放的大门，汉正街写下了“天下第一街”的商业传奇，湖北自贸区打造内陆开放的新标杆。
+05 科教大省充满创新力量
+科技事业取得长足进步，特别是十八大以来，创新驱动战略深入实施，科技事业和高新产业发展步入新的快车道。
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0020.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0021.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0022.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0023.jpg">
+湖北科教资源丰富，坚持创新驱动，聚焦聚力科技和经济深度融合，大力优化创新资源和创新力量布局，着力推动前沿引领技术、关键核心技术、现代工程技术等的重大突破。“深海一号”下水、鲲龙AG600水上首飞等，这些国之重器、重大科技创新成果都有湖北的科技元素。光纤通信、北斗导航等战略性新兴产业走在全国前列。
+06 钱袋子越来越鼓了
+全面建成小康社会近在咫尺，改革发展成果更多、更公平地惠及全体人民，人民群众获得感、幸福感不断增强。
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0024.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0025.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0026.jpg">
+<img src="https://sh-preview-ftn.weiyun.com:8443/ftn_doc_abstract/3ad72564a0a3c00d82a49b50c7db4e3da88385a7/3ad72564a0a3c00d82a49b50c7db4e3da88385a7.files/file0027.jpg">
+民生事业取得新成就，改革发展成果惠及广大群众，老百姓获得感、幸福感不断增强。坚持五级书记抓脱贫，尽锐出战打好脱贫攻坚战，着力解决“两不愁三保障”突出问题。2014年以来，全省累计减贫490.7万人，年均减贫近百万，贫困发生率由14.4%降至2.4%。2018年，全省人平储蓄44531元，是1978年的2969倍，比2012年翻一番。
+70年来，荆楚大地发生了深刻变化，充分彰显了中国共产党领导和中国特色社会主义制度的政治优势，让我们更加坚定了中国特色社会主义道路自信、理论自信、制度自信、文化自信。
+在奋进新时代的伟大征程中，我们将更加紧密地团结在以习近平同志为核心的党中央周围，坚持以习近平新时代中国特色社会主义思想为指引，不忘初心、牢记使命，务实重行、砥砺奋进，奋力谱写新时代湖北高质量发展新篇章。
+制作单位：湖北省发展和改革委员会
+湖北省统计局
+（责任编辑 何潜彬）
+IO:1
+OL:
+OC:
+LO:
+LA:
+UD:
+RT:
+VO:
+IT:0
+&%
