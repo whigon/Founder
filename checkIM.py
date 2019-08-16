@@ -36,6 +36,8 @@ def checkIMValidation(files):
     code_400 = 0
     code_404 = 0
     code_502 = 0
+    code_504 = 0
+    other_code = 0
     connection_fail = 0
     read_fail = 0
     invalid_schema = 0
@@ -99,16 +101,23 @@ def checkIMValidation(files):
                             elif code == 502:
                                 code_502 += 1
                                 print("502: " + url)
+                            elif code == 504:
+                                code_504 += 1
+                                print("504: " + url)
                             else:
+                                other_code += 1
                                 print(str(code) + ": " + url)
 
                         if total % 100 == 0:
                             print("#urls: " + str(total))
 
+    print("----------------------")
     print("#200: " + str(code_200))
     print("#400: " + str(code_400))
     print("#404: " + str(code_404))
     print("#502: " + str(code_502))
+    print("#502: " + str(code_504))
+    print("#502: " + str(other_code))
     print("#connection fail: " + str(connection_fail))
     print("#read fail: " + str(read_fail))
     print("#invalid schema: " + str(invalid_schema))
