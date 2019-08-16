@@ -2,7 +2,6 @@
 """
 检查IM字段中的图片的url是否和TX中的图片的url数量相同
 在服务器上运行
-
 Created on Wed Aug 7 11:19:28 2019
 @author: LiYuexiang
 """
@@ -68,13 +67,20 @@ def chechNum(files):
                             exp = re.compile('\ssrc="https?://[\d\w\:\/\.\?=&_\-]*"')
                             url_src = exp.findall(text)
                             # 从src=XXX中提取链接
-                            url_TX = [re.findall(r'https?://[\d\w\:\/\.\?=&_\-]*', url)[0] for url in url_src]
-                            num_TX = count_Num(url_TX)
+                            urls_TX = [re.findall(r'https?://[\d\w\:\/\.\?=&_\-]*', url)[0] for url in url_src]
+                            num_TX = count_Num(urls_TX)
 
                             if num_IM != num_TX:
                                 print("The picture number is not equal: ")
                                 print(MI + ": IM-" + str(num_IM) + " TX-" + str(num_TX))
-                                print(url_TX)
+
+                                if num_IM-num_TX == 1:
+                                    print("Maybe is the cover.")
+                                else:
+                                    print("IM urls: " + str(urls_IM))
+                                    print("TX urls: " + str(urls_TX))
+
+                                print("---------------------------------")
 
                             # 到下一个字段退出
                             # if line[:3] == 'IO:':
@@ -88,4 +94,3 @@ def count_Num(urls):
 if __name__ == '__main__':
     files = eachFile()
     chechNum(files)
-
