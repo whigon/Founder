@@ -1,0 +1,52 @@
+Read timeout: http://img.jlntv.cn/material/news/img/2019/08/a287987d16ba0ba40bc73cb79bb73171.jpg
+Read timeout: http://img.jlntv.cn/material/news/img/2019/07/20190720202827MyuF.png
+Read timeout: http://img.jlntv.cn/material/news/img/2019/08/20190802112631DEsp.jpg
+Read timeout: http://img.jlntv.cn/material/news/img/2019/06/20190628210155h2am.png
+Read timeout: http://img.jlntv.cn/material/news/img/2019/08/20190812165450h8k5.jpg
+Read timeout: http://img.jlntv.cn/material/news/img/2019/08/20190803180202FVW.jpg
+Read timeout: http://img.jlntv.cn/material/news/img/2019/08/20190803180546lQfa.jpg
+Read timeout: http://img.jlntv.cn/material/news/img/2019/07/fb1e141447b9248f861e99966ff36d39.jpg
+Read timeout: http://img.jlntv.cn/material/news/img/2019/05/201905291644528JWs.jpg
+Read timeout: http://img.jlntv.cn/material/livmedia/img/2019/05/1dc83963842be32177886f13d85fffe5.png
+Read timeout: http://img.jlntv.cn/material/news/img/2019/05/37779c0f984212b709d2021bd4b758ce.png
+Read timeout: http://img.jlntv.cn/material/news/img/2019/05/201905281737454g9l.jpg
+#urls: 100
+Read timeout: http://img.jlntv.cn/material/news/img/2019/05/fbedd3783b2ca1e373bf492786afdfcc.jpg
+Read timeout: http://img.jlntv.cn/material/news/img/2019/05/20190501134405fp9.png
+Read timeout: http://img.jlntv.cn/material/news/img/2019/04/9026d396b4da6785e1643bcc664843ef.jpg
+#urls: 200
+#urls: 300
+Read timeout: http://img.plus.jlntv.cn/2019073168adb6b58273779886af50f021d22eea_origin.jpg
+#urls: 400
+#urls: 500
+#urls: 600
+#urls: 700
+#urls: 800
+Read timeout: http://img.plus.jlntv.cn/20190726a495acc485fe4699f51a1671fa581ec8_origin.jpg
+#urls: 900
+404: http://mapi.plus.jlntv.cn:80/api/open/jlrm/./res/ueditor/third-party/m2o/images/slide/before-pizhu-2x.png
+404: http://mapi.plus.jlntv.cn:80/api/open/jlrm/./res/ueditor/third-party/m2o/images/slide/after-pizhu-2x.png
+#urls: 1000
+#urls: 1100
+#urls: 1200
+#urls: 1300
+#urls: 1400
+#urls: 1500
+Read timeout: http://img.plus.jlntv.cn/2019081552c0d913cf3070e37b7080b2397776f7_origin.png
+#urls: 1600
+#urls: 1700
+Read timeout: http://img.plus.jlntv.cn/201907030599143a0ba9e02fff636021c0e058c9_origin.jpg
+Read timeout: http://img.plus.jlntv.cn/2019080186784f40167ab2cef1e8fa4ded63ce33_origin.png
+#urls: 1800
+----------------------
+#200: 1798
+#400: 0
+#404: 2
+#502: 0
+#504: 0
+#other code: 0
+#connection fail: 0
+#read fail: 20
+#invalid schema: 0
+#other error: 0
+total: 1820
