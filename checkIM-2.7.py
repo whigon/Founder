@@ -131,7 +131,7 @@ def checkIMForm(files):
 
                     for url in urls:
                         # 检查是否是http(s)开头
-                        if re.match(r'https?://[\d\w\:\/\.\?=&_\-]*', url) is None:
+                        if re.match(r'https?://[\d\w\:\/\.\?=&_\-,%]*', url) is None:
                             print("Incorrect Form: " + str(url))
 
                         # 检查url是否是个有效链接，没装这个包
