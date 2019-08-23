@@ -1,0 +1,113 @@
+Incorrect Form: base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==
+HTTPSConnectionPool(host='adjd.zjxxt.com', port=443): Read timed out.: https://adjd.zjxxt.com/upfile/operation_img/20198210855_original.jpeg
+#urls: 100
+HTTPSConnectionPool(host='adjd.zjxxt.com', port=443): Read timed out.: https://adjd.zjxxt.com/upfile/operation_img/2019717101852_original.png
+HTTPSConnectionPool(host='adjd.zjxxt.comundefined', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7f25f11e2510>: Failed to establish a new connection: [Errno -2] Name or service not known',)): https://adjd.zjxxt.comundefined
+HTTPSConnectionPool(host='adjd.zjxxt.com', port=443): Read timed out.: https://adjd.zjxxt.com/upfile/operation_img/20197195026_original.jpg
+#urls: 200
+#urls: 300
+HTTPSConnectionPool(host='adjd.zjxxt.com', port=443): Read timed out.: https://adjd.zjxxt.com/upfile/operation_img/20181228151244_original.jpg
+Read timeout: http://cnews.chinadaily.com.cn/img/site1/20181107/509a4c1279f91d4c8ad912.jpeg
+Read timeout: http://cnews.chinadaily.com.cn/img/site1/20181107/509a4c1279f91d4c8ad913.jpeg
+#urls: 400
+Read timeout: http://www.people.com.cn/mediafile/pic/20181017/52/109040129811296620.jpg
+Failed to parse: adjd.zjxxt.comdata:image: https://adjd.zjxxt.comdata:image/gif
+Invalid URL 'base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==': No schema supplied. Perhaps you meant http://base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==?: base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20170823/2a4842435ffd47c281f607c5b7623c37.jpeg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20171109/30d46d54cef14029a8512da8e3e76de2.jpeg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20171109/641ce421a3ca4e438fb90d98f1ebb07e.gif
+#urls: 500
+#urls: 600
+#urls: 700
+Connection timeout: https://adjd.zjxxt.com/upfile/operation_img/201962810450_original.jpg
+#urls: 800
+Read timeout: http://qjwb.zjol.com.cn/images/2019-02/26/qjwb20190226a0014v01b003.jpg
+#urls: 900
+#urls: 1000
+Connection timeout: https://adjd.zjxxt.com/upfile/operation_img/2019625105936_original.jpg
+#urls: 1100
+HTTPSConnectionPool(host='adjd.zjxxt.com', port=443): Read timed out.: https://adjd.zjxxt.com/upfile/operation_img/201961715242_original.jpg
+HTTPSConnectionPool(host='adjd.zjxxt.com', port=443): Read timed out.: https://adjd.zjxxt.com/upfile/operation_img/201961417825_original.gif
+HTTPSConnectionPool(host='adjd.zjxxt.com', port=443): Read timed out.: https://adjd.zjxxt.com/upfile/operation_img/2019614113226_original.png
+#urls: 1200
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20190313/3b063987b98845569f679bf8e91f68e5.jpeg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20190313/bed8e3272d2b498383cad8e299e58fa0.jpeg
+#urls: 1300
+HTTPConnectionPool(host='adjd.zjxxt.com', port=80): Read timed out.: http://adjd.zjxxt.com/upfile/operation_img/2018102618013_original.png
+#urls: 1400
+#urls: 1500
+403: http://www.edu-gov.cn/uploads/images/2017/1020/1508476063180733.jpg
+403: http://www.edu-gov.cn/uploads/images/2017/1020/1508476064130842.jpg
+403: http://www.edu-gov.cn/uploads/images/2017/1020/1508476064756025.jpg
+403: http://www.edu-gov.cn/uploads/images/2017/1020/1508476065248164.jpg
+HTTPConnectionPool(host='www.edu.cn', port=80): Read timed out.: http://www.edu.cn/edu/ji_chu/ji_jiao_news/201712/W020171212351159525437.jpg
+#urls: 1600
+#urls: 1700
+Connection timeout: http://adjd.zjxxt.com/upfile/operation_img/2018103017285_original.jpg
+HTTPConnectionPool(host='adjd.zjxxt.comundefined', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f25f11e24d0>: Failed to establish a new connection: [Errno -2] Name or service not known',)): http://adjd.zjxxt.comundefined
+404: https://adjd.zjxxt.com//:0
+#urls: 1800
+404: https://adjd.zjxxt.com//:0
+404: https://adjd.zjxxt.com//:0
+404: http://www.legaldaily.com.cn/index/images/attachement/jpg/site4/20180815/4437e62e7d9a1cdd87ac0b.jpg
+404: https://adjd.zjxxt.com//:0
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20180710/cc1eb53c5a314471be4f3386a5a6d09c.jpeg
+#urls: 1900
+404: https://adjd.zjxxt.com//:0
+#urls: 2000
+Read timeout: http://n.sinaimg.cn/sinacn/w868h300/20180130/9b81-fyqzcxi2412531.jpg
+#urls: 2100
+#urls: 2200
+#urls: 2300
+HTTPSConnectionPool(host='adjd.zjxxt.comundefined', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7f25f11e2850>: Failed to establish a new connection: [Errno -2] Name or service not known',)): https://adjd.zjxxt.comundefined/
+HTTPSConnectionPool(host='adjd.zjxxt.com', port=443): Read timed out.: https://adjd.zjxxt.com/upfile/operation_img/20197493721_original.jpg
+#urls: 2400
+#urls: 2500
+HTTPSConnectionPool(host='adjd.zjxxt.com', port=443): Read timed out.: https://adjd.zjxxt.com/upfile/operation_img/201951715352_original.gif
+#urls: 2600
+HTTPSConnectionPool(host='adjd.zjxxt.com', port=443): Read timed out.: https://adjd.zjxxt.com/upfile/operation_img/2019425115312_original.jpg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20190417/0d804da5b8d249bc9f6b309d294f4c2b.jpg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20190417/6c25d9b836604d8dbd30dfee2d927b27.jpg
+#urls: 2700
+#urls: 2800
+#urls: 2900
+Read timeout: http://n.sinaimg.cn/edu/transform/114/w550h364/20180911/521Q-hikxxmz8375738.jpg
+Read timeout: http://www.zj.chinanews.com/news/2018/0810/U637P954T21D17239F310DT20180810153117.jpg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20180115/6d08035b71e8487dacb92434ee59416d.jpeg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20180406/07a22a8051734902b0e7138ae537a091.jpeg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20180406/65f1aa9c6fd840dabb2c789da090dc2f.jpeg
+#urls: 3000
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20180406/8f4e2b242b814cb49196d59b143996b8.jpeg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20180718/509e7a5858a54a82b0781b6866cc69d0.jpeg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20180718/c16f59f89d8446e08db67913e4adb89f.gif
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20180717/2c095baf3d1f4b3ca50bc44720a241ea.jpg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20180717/528c19f480f841c9b3f199c408035800.jpg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20180717/ccc5afdf8fb644d5a869fcd57a3527c7.jpg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20171117/12f203ca41884e51aa8ca5810722f23e.jpeg
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20171117/4e8b27614f1b482b82bf6bc53df53842.jpeg
+#urls: 3100
+#urls: 3200
+HTTPSConnectionPool(host='adjd.zjxxt.comundefined', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x7f25f11e2790>: Failed to establish a new connection: [Errno -2] Name or service not known',)): https://adjd.zjxxt.comundefined
+#urls: 3300
+HTTPSConnectionPool(host='adjd.zjxxt.com', port=443): Read timed out.: https://adjd.zjxxt.com/upfile/operation_img/2019621103935_original.jpg
+#urls: 3400
+#urls: 3500
+#urls: 3600
+#urls: 3700
+#urls: 3800
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20170824/356a6369586d491193622dfbcfb9108d.jpeg
+#urls: 3900
+HTTPConnectionPool(host='adjd.zjxxt.comundefined', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f25f11e2e90>: Failed to establish a new connection: [Errno -2] Name or service not known',)): http://adjd.zjxxt.comundefined
+Read timeout: http://5b0988e595225.cdn.sohucs.com/images/20180209/d70ac48a53454e88985464bd668f3a35.jpeg
+----------------------
+#200: 3917
+#400: 0
+#404: 6
+#502: 0
+#504: 0
+#other code: 4
+#connection fail: 3
+#read fail: 28
+#invalid schema: 0
+#other error: 20
+total: 3978
