@@ -64,10 +64,10 @@ def chechNum(files):
                                 text += line
 
                             # 从正文从提取链接, 'src'前有空格才行，不然会匹配到oldsrc等
-                            exp = re.compile('\ssrc="https?://[\d\w\:\/\.\?=&_\-]*"')
+                            exp = re.compile('\ssrc="https?://[\d\w\:\/\.\?=&_\-,%]*"')
                             url_src = exp.findall(text)
                             # 从src=XXX中提取链接
-                            urls_TX = [re.findall(r'https?://[\d\w\:\/\.\?=&_\-]*', url)[0] for url in url_src]
+                            urls_TX = [re.findall(r'https?://[\d\w\:\/\.\?=&_\-,%]*', url)[0] for url in url_src]
                             num_TX = count_Num(urls_TX)
 
                             if num_IM != num_TX:
