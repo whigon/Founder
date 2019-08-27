@@ -66,9 +66,37 @@ def getChannel():
     return channels
 
 
+def getCollectChannel():
+    channels = []
+
+    os.system("cat ./Main/* | grep 'BN:' | sort | uniq > channel.txt")
+
+    print("Collection data: ")
+    with open('channel.txt', 'r', encoding='UTF-8') as read_file:
+        while 1:
+            line = read_file.readline()
+
+            if not line:
+                break
+
+            line = line.strip()
+            line = line[3:]
+            print(line)
+            channels.append(line)
+
+    print("----------------")
+    return channels
+
+
 if __name__ == '__main__':
     # file = eachFile()
     # 获取Readme中的频道名称
-    channels = getChannel()
-    for c in channels:
-        print(c)
+    channels = set(getChannel())
+    collectChannels = set(getCollectChannel())
+
+    print("Different data: ")
+    # 找出不同的元素
+    diff = channels & collectChannels
+
+    for d in diff:
+        print(d)
