@@ -58,7 +58,10 @@ def getChannel():
                 flag = 0
 
             if flag == 1:
-                print(line)
+                channels.append(line)
+
+        channels.pop(0)
+        channels.pop(-1)
 
     return channels
 
@@ -67,3 +70,5 @@ if __name__ == '__main__':
     # file = eachFile()
     # 获取Readme中的频道名称
     channels = getChannel()
+    for c in channels:
+        print(c)
