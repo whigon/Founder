@@ -63,6 +63,12 @@ def getChannel():
         channels.pop(0)
         channels.pop(-1)
 
+    channels.sort()
+    print("Readme: ")
+    for c in channels:
+        print(c)
+    print("----------------")
+
     return channels
 
 
@@ -71,7 +77,6 @@ def getCollectChannel():
 
     os.system("cat ./Main/* | grep 'BN:' | sort | uniq > channel.txt")
 
-    print("Collection data: ")
     with open('channel.txt', 'r', encoding='UTF-8') as read_file:
         while 1:
             line = read_file.readline()
@@ -81,10 +86,15 @@ def getCollectChannel():
 
             line = line.strip()
             line = line[3:]
-            print(line)
+            # print(line)
             channels.append(line)
 
+    channels.sort()
+    print("Collection data: ")
+    for c in channels:
+        print(c)
     print("----------------")
+
     return channels
 
 
@@ -96,7 +106,7 @@ if __name__ == '__main__':
 
     print("Different data: ")
     # 找出不同的元素
-    diff = channels & collectChannels
+    diff = channels ^ collectChannels
 
     for d in diff:
         print(d)
