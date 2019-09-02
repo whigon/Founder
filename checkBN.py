@@ -36,7 +36,7 @@ def getChannel(appName):
         file = os.path.join(path, 'readme.txt')
         print(1)
     elif os.path.isfile(os.path.join(path, 'Readme.txt')):
-        file = os.path.join(path, 'R eadme.txt')
+        file = os.path.join(path, 'Readme.txt')
         print(2)
     else:
         print(os.path.join(path, 'readme.txt'))
