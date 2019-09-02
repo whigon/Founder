@@ -23,23 +23,27 @@ def eachFile():
     return files
 
 
-def getChannel():
+def getChannel(appName):
     channels = []
 
     # Readme的相对路径
     path = './../apps/'
-    path = os.path.join(path, os.listdir(path)[0])
+    # path = os.path.join(path, os.listdir(path)[0])
+    path = os.path.join(path, appName)
     file = ''
 
     if os.path.isfile(os.path.join(path, 'readme.txt')):
         file = os.path.join(path, 'readme.txt')
         print(1)
     elif os.path.isfile(os.path.join(path, 'Readme.txt')):
-        file = os.path.join(path, 'Readme.txt')
+        file = os.path.join(path, 'R eadme.txt')
         print(2)
     else:
         print(os.path.join(path, 'readme.txt'))
         print("No readme!")
+        print("----------------")
+
+        return None
 
     with open(file, 'r', encoding='UTF-8') as read_file:
         flag = 0
@@ -100,13 +104,20 @@ def getCollectChannel():
 
 if __name__ == '__main__':
     # file = eachFile()
+    appName = input("APP name: ")
+
     # 获取Readme中的频道名称
-    channels = set(getChannel())
+    channels = getChannel(appName)
+    # 获取采集到的文件中的频道名称
     collectChannels = set(getCollectChannel())
 
-    print("Different data: ")
-    # 找出不同的元素
-    diff = channels ^ collectChannels
+    # 如果readme存在
+    if channels is not None:
+        channels = set(channels)
 
-    for d in diff:
-        print(d)
+        print("Different data: ")
+        # 找出不同的元素
+        diff = channels ^ collectChannels
+
+        for d in diff:
+            print(d)
