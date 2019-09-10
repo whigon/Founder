@@ -23,27 +23,17 @@ def eachFile():
     return files
 
 
-def getChannel(appName):
+def getChannel():
     channels = []
+    file = './readme.txt'
 
-    # Readme的相对路径
-    path = './../apps/'
-    # path = os.path.join(path, os.listdir(path)[0])
-    path = os.path.join(path, appName)
-    file = ''
-
-    if os.path.isfile(os.path.join(path, 'readme.txt')):
-        file = os.path.join(path, 'readme.txt')
-    elif os.path.isfile(os.path.join(path, 'Readme.txt')):
-        file = os.path.join(path, 'Readme.txt')
-    else:
+    if not os.path.isfile(file):
         print("No readme!")
         print("----------------")
-        
+
         return None
 
-    with open(file, 'r') as read_file:
-        flag = 0
+    with open('./readme.txt', 'r') as read_file:
         while 1:
             line = read_file.readline()
 
@@ -51,16 +41,7 @@ def getChannel(appName):
                 break
 
             line = line.strip()
-
-            if line == '频道：':
-                flag = 1
-            elif line == '分页：':
-                flag = 0
-
-            if flag == 1:
-                channels.append(line)
-        channels.pop(0)
-        channels.pop(-1)
+            channels.append(line)
 
     channels.sort()
     print("Readme: ")
@@ -71,10 +52,13 @@ def getChannel(appName):
     return channels
 
 
-def getCollectChannel():
+def getCollectChannel(appName):
     channels = []
 
-    os.system("cat ./Main/* | grep 'BN:' | sort | uniq > channel.txt")
+    # os.system("cat ./Main/* | grep 'BN:' | sort | uniq > channel.txt")
+    command = "cat ./Main/* | grep -A1 'SN:" + appName + "' | grep 'BN:'  | sort | uniq > channel.txt"
+    print(command)
+    os.system(command)
 
     with open('channel.txt', 'r') as read_file:
         while 1:
@@ -101,9 +85,9 @@ if __name__ == '__main__':
     appName = raw_input("APP name: ")
 
     # 获取Readme中的频道名称
-    channels = getChannel(appName)
+    channels = getChannel()
     # 获取采集到的文件中的频道名称
-    collectChannels = set(getCollectChannel())
+    collectChannels = set(getCollectChannel(appName))
 
     # 如果readme存在
     if channels is not None:
